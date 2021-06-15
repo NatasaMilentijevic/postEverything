@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-posteverything-dev-224459-authRole",
+      "UnauthRoleArn": "arn:aws:iam::931703176790:role/amplify-posteverything-dev-224459-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::931703176790:role/amplify-posteverything-dev-224459-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-posteverything-dev-224459-deployment",
+      "UnauthRoleName": "amplify-posteverything-dev-224459-unauthRole",
+      "StackName": "amplify-posteverything-dev-224459",
+      "StackId": "arn:aws:cloudformation:eu-west-1:931703176790:stack/amplify-posteverything-dev-224459/924801f0-c963-11eb-b39e-0a9189b8d099",
+      "AmplifyAppId": "djc7b3rwwibey"
+    },
+    "categories": {
+      "auth": {
+        "posteverythinge450668f": {}
+      }
+    }
+  }
+}

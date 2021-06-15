@@ -1,0 +1,5 @@
+type Status @model {
+  id: ID!
+  name: String!
+  description: String
+}
